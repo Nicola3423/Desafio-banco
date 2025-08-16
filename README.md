@@ -1,6 +1,6 @@
-# 💳 PicPay Backend Challenge – DDD + SOLID
+# 💳 Backend Challenge – DDD + SOLID
 
-Este projeto é uma implementação do **desafio backend do PicPay**, desenvolvido com **Java + Spring Boot**, aplicando **Domain-Driven Design (DDD)** e **princípios SOLID** para garantir alta coesão, baixo acoplamento e facilidade de manutenção.
+Este projeto é uma implementação do **desafio backend **, desenvolvido com **Java + Spring Boot**, aplicando **Domain-Driven Design (DDD)** e **princípios SOLID** para garantir alta coesão, baixo acoplamento e facilidade de manutenção.
 
 ## 🚀 Objetivo
 O sistema simula a **transferência de valores entre carteiras digitais**, validando regras de negócio reais e integrando com serviços externos de autorização e notificação.
